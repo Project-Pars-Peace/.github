@@ -1,5 +1,7 @@
 # Project Pars Peace
 
+## About Us
+
 <table border="0">
  <tr>
     <td width="25%">
@@ -7,7 +9,6 @@
         <img src="https://res.cloudinary.com/dlqbikbis/image/upload/v1728212656/centers_cm7c0v.png" alt="Centers" style="width: 100%;">
     </td>
     <td width="75%">
-        <h2>About Us</h2>
         <p>Project Pars Peace is a visionary, charity-funded initiative harnessing artificial intelligence to revolutionize medical diagnostics. Our mission is to make cutting-edge AI solutions both accessible and affordable for patients worldwide, minimizing costs while maximizing impact.</p>
         <p>We are a collaborative effort based on:</p>
         <ul>

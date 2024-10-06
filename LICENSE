@@ -1,0 +1,147 @@
+# Project Pars Peace License Agreement
+
+## Preamble: Understanding Our License
+
+Project Pars Peace is committed to advancing healthcare through AI while respecting patient trust and data rights. Before delving into the legal terms, we want to explain what this license means for you and how we ensure fair use of patient data:
+
+### What This License Means for You
+
+1. **Patient-Centric Approach**: We prioritize patient opinions in how their data is used, ensuring ethical and responsible data sharing.
+
+2. **Accessibility**: Our AI tools and datasets are available to qualified researchers and medical institutions worldwide, promoting global collaboration in healthcare advancement.
+
+3. **Affordability**: We aim to keep costs minimal for patients benefiting from our AI technologies.
+
+4. **Transparency**: Our governance structure includes patient representatives, ensuring ongoing patient involvement in decision-making.
+
+5. **Fair Use**: 
+   - For non-profit users (like academic researchers), use is free with proper attribution.
+   - Commercial users must contribute a portion of profits to patient assistance and further research.
+
+6. **Regular Updates**: The license is reviewed every two years, allowing us to adapt to new developments and maintain fairness.
+
+### Our Commitment to Fair Data Use
+
+We take the responsibility of managing patient data seriously. Here's how we ensure fairness:
+
+1. **Patient Consent**: Data is only used with explicit patient consent and in line with their preferences.
+
+2. **Data Protection**: We implement strict measures to protect sensitive medical information.
+
+3. **Benefit Sharing**: Any commercial benefits derived from the data are partly redirected to patient assistance programs.
+
+4. **Open Access**: We promote open-source sharing for non-profit use, democratizing access to advanced medical AI.
+
+5. **Ethical Oversight**: Our governance structure ensures ongoing ethical consideration in data use.
+
+By balancing innovation, accessibility, and patient rights, we strive to use entrusted data responsibly for the greater good of advancing healthcare globally.
+
+---
+
+# Project Pars Peace License Agreement
+
+## 1. Definitions
+
+1.1 "Project Pars Peace" refers to the overarching initiative encompassing all related projects and outputs.
+
+1.2 "Pars-CT" refers to the CT scan imaging project under Project Pars Peace.
+
+1.3 "PanCanAID" refers to the pancreatic cancer detection project under Project Pars Peace.
+
+1.4 "Licensed Materials" refers to all datasets, models, tools, and other outputs produced by Project Pars Peace, including but not limited to Pars-CT and PanCanAID.
+
+1.5 "Licensee" refers to any individual or entity using the Licensed Materials.
+
+1.6 "Non-Profit Usage" refers to use by academic researchers, medical centers, and non-profit device developers.
+
+1.7 "Commercial Usage" refers to use by for-profit organizations developing applications or products.
+
+## 2. Purpose and Scope
+
+2.1 Project Pars Peace is committed to advancing AI-based medical diagnostics, with a focus on making cutting-edge AI solutions accessible and affordable for patients worldwide.
+
+2.2 This license governs the use of all Licensed Materials, incorporating patient opinions to ensure ethical data usage and distribution.
+
+## 3. License Grant
+
+3.1 Project Pars Peace grants Licensee a non-exclusive, non-transferable license to use the Licensed Materials subject to the terms and conditions herein.
+
+## 4. Terms of Use
+
+### 4.1 Non-Profit Usage
+
+4.1.1 Eligible Users: Academic researchers, medical centers, and non-profit device developers.
+
+4.1.2 Requirements:
+   a) Attribution of Project Pars Peace and the specific project (e.g., Pars-CT, PanCanAID) as the source in all related publications and outputs.
+   b) No profit generation from usage.
+   c) Patient charges limited to cost recovery for infrastructure and inference.
+
+### 4.2 Commercial Usage
+
+4.2.1 Eligible Users: Commercial organizations developing applications or products.
+
+4.2.2 Requirements:
+   a) Allocation of 10% of profits derived from the use of Licensed Materials to healthcare-related charitable causes:
+      i) Minimum 70% for patient assistance programs.
+      ii) Maximum 30% for AI development in healthcare research.
+   b) Alternative arrangements, such as quinquennial lump-sum payments, may be negotiated with Project Pars Peace.
+
+## 5. Governance
+
+5.1 Until December 31, 2028, Seyed Amir Ahmad Safavi-Naini will serve as the sole governing authority for Project Pars Peace and all its initiatives.
+
+5.2 From January 1, 2029, governance will transition to a diverse board including patients, clinicians, and engineers, operating with high transparency.
+
+5.3 Detailed governance structure and procedures will be published separately and updated as needed.
+
+## 6. License Duration and Renewal
+
+6.1 This license is valid for a period of two (2) years from the date of issuance.
+
+6.2 The license is subject to mandatory review and renewal every two years. Licensees must actively seek renewal to continue using the Licensed Materials beyond the two-year period.
+
+6.3 Project Pars Peace reserves the right to update or modify the license terms at each renewal. Licensees will be notified of any changes at least 90 days before the expiration of the current license period.
+
+6.4 Failure to renew the license will result in immediate termination of the Licensee's rights to use the Licensed Materials at the end of the two-year period.
+
+6.5 Renewal process and any associated fees will be communicated to Licensees at least 120 days before the expiration of the current license period.
+
+6.6 Project Pars Peace maintains the right to deny renewal if the Licensee has violated any terms of the agreement or if continued use is deemed inconsistent with the project's goals and ethical standards.
+## 7. Fees
+
+7.1 A nominal fee may be included in end-user charges to cover governance and operational costs of Project Pars Peace and its initiatives.
+
+## 8. Specific Project Considerations
+
+8.1 Pars-CT: Users must adhere to all relevant medical imaging regulations and ethical guidelines when utilizing Pars-CT materials.
+
+8.2 PanCanAID: Users must comply with specific data protection measures related to sensitive medical information in pancreatic cancer research.
+
+8.3 Future Projects: As new initiatives are developed under Project Pars Peace, specific terms may be added to this license.
+
+## 9. Disclaimer of Warranty
+
+9.1 Project Pars Peace provides all Licensed Materials "AS IS" and without any warranty, express or implied.
+
+## 10. Limitation of Liability
+
+10.1 Project Pars Peace shall not be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use the Licensed Materials.
+
+## 11. Termination
+
+11.1 Project Pars Peace reserves the right to terminate this license for any violation of its terms.
+
+11.2 Upon termination, Licensee must cease all use of Licensed Materials and destroy all copies.
+
+## 12. Governing Law
+
+12.1 This agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction].
+
+## 13. Contact Information
+
+For questions, clarifications, or to discuss commercial arrangements, please contact:
+
+[Seyed Amir Ahmad Safavi-Naini, sdamirsa@gmail.com, Data Sciecne and Machine Learning lab, Sharif University of Technology, Teimori, Tehran, Iran]
+
+By using any of the Licensed Materials, Licensee agrees to be bound by the terms and conditions of this license agreement.

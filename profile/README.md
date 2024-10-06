@@ -60,13 +60,16 @@ We maintain transparency through inclusive governance and offer fair terms for b
 By regularly updating our license, we stay responsive to evolving needs and technologies. 
 Our goal is simple yet ambitious: to pioneer responsible innovation that genuinely benefits patients across the globe, making advanced healthcare more accessible and equitable for all.
 
+
+
 ## Our Research
 
 Our team is actively working on cutting-edge research in medical AI. Stay tuned for our latest publications and findings.
 
 ## Contact Us
 
-- Email: [sdamirsa@gmail.com](mailto:sdamirsa@gmail.com)
+- [dml@sharif.edu](mailto:dml@sharif.edu)
+- [sdamirsa@gmail.com](mailto:sdamirsa@gmail.com)
 
 ## Support Our Cause
 
@@ -74,4 +77,4 @@ As a charity-funded initiative, we rely on the generosity of our supporters. If 
 
 ---
 
-Project Pars Peace © 2024. Open-source and proud. 🌍❤️
+[Project Parse Peace](https://github.com/Project-Pars-Peace/.github?tab=License-1-ov-file) © 2024. Open-source and proud. 🌍❤️ 

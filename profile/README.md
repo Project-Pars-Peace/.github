@@ -19,7 +19,6 @@
             <li>Gastrointestinal and Liver Diseases Research Center at Iran University of Medical Sciences</li>
             <li>Gastrointestinal and Liver Diseases Research Center at Guilan University of Medical Sciences</li>
             <li>Mashhad University of Medical Sciences</li>
-            <li>Yazd University of Medical Sciences</li>
         </ul>
     </td>
  </tr>
@@ -62,14 +61,13 @@ By regularly updating our license, we stay responsive to evolving needs and tech
 Our goal is simple yet ambitious: to pioneer responsible innovation that genuinely benefits patients across the globe, making advanced healthcare more accessible and equitable for all.
 
 
-
 ## Our Research
 
 Our team is actively working on cutting-edge research in medical AI. Stay tuned for our latest publications and findings.
 
 ## Contact Us
 
-- [dml@sharif.edu](mailto:dml@sharif.edu)
+- [DML lab](mailto:dml@sharif.edu)
 - [sdamirsa@gmail.com](mailto:sdamirsa@gmail.com)
 
 ## Support Our Cause
